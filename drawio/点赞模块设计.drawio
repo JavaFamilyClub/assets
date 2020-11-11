@@ -1,1 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T02:00:17.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="VpPka9XLzkFq6nKkEpXe" version="13.9.3" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-11T04:47:58.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="A85Pa0xkJbq9iVHkTs3o" version="13.9.3" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="1673" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LGdV62sBLi4SbAePNqGO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-1" target="LGdV62sBLi4SbAePNqGO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="510" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="530" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="830" y="620" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-6" value="页面用户点赞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="730" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-7" value="&lt;font size=&quot;3&quot;&gt;jfoa 云服务器&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="820" width="165" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-8" value="&lt;font size=&quot;3&quot;&gt;Redis&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-9" value="" style="endArrow=classic;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-7" target="LGdV62sBLi4SbAePNqGO-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="440" as="sourcePoint" />
+            <mxPoint x="1650" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-11" target="LGdV62sBLi4SbAePNqGO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-11" target="LGdV62sBLi4SbAePNqGO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-11" value="查询当前用户当天是否已经点过赞?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="860" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-13" target="LGdV62sBLi4SbAePNqGO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-13" value="页面渲染" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-15" target="LGdV62sBLi4SbAePNqGO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-15" target="LGdV62sBLi4SbAePNqGO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-15" target="LGdV62sBLi4SbAePNqGO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-15" value="查询当前用户当天是否已经点过赞?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-18" value="允许用户点赞" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-20" value="显示已经点赞, 页面禁止再次点赞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-22" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="480" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-23" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-28" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="780" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-29" value="AMQP 发送点赞消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-34" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-29" target="LGdV62sBLi4SbAePNqGO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1060" as="sourcePoint" />
+            <mxPoint x="1250" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-35" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="LGdV62sBLi4SbAePNqGO-34">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-39" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="1010" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-41" value="处理点赞消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-42" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="780" as="sourcePoint" />
+            <mxPoint x="970" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-43" value="返回, 响应用户" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LGdV62sBLi4SbAePNqGO-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="160" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-46" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-7" target="LGdV62sBLi4SbAePNqGO-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="930" as="sourcePoint" />
+            <mxPoint x="780" y="1019.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-47" value="" style="shape=message;html=1;outlineConnect=0;" vertex="1" parent="LGdV62sBLi4SbAePNqGO-46">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-48" value="异步, 收到点赞消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="970" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-50" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=82.5;entryPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-41" target="LGdV62sBLi4SbAePNqGO-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1069" as="sourcePoint" />
+            <mxPoint x="650" y="1069" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-51" value="向 Redis 写入用户点赞信息, 资源点赞数 + 1" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LGdV62sBLi4SbAePNqGO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-52" value="&lt;font size=&quot;3&quot;&gt;MySql&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1130" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-53" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-8" target="LGdV62sBLi4SbAePNqGO-52">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="570" y="980" as="sourcePoint" />
+            <mxPoint x="670" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-54" value="同步 Redis 的点赞数据到 Mysql" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1070" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-56" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-7" target="LGdV62sBLi4SbAePNqGO-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="570" y="980" as="sourcePoint" />
+            <mxPoint x="670" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-57" value="定时触发 Redis 到 MySQL 的同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="890" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-58" value="" style="startArrow=oval;startFill=0;startSize=7;endArrow=block;endFill=0;endSize=10;dashed=1;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="1" source="LGdV62sBLi4SbAePNqGO-52" target="LGdV62sBLi4SbAePNqGO-8">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="570" y="980" as="sourcePoint" />
+            <mxPoint x="670" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGdV62sBLi4SbAePNqGO-59" value="Redis 从&lt;br&gt;MySQL 中获取当前点赞数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1010" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
